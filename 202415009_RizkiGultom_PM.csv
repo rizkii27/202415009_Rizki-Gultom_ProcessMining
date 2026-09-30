@@ -1,0 +1,15 @@
+﻿Soal 2: Rekonstruksi Event Log Standar,,,,,
+,,,,,
+, Nama          : Rizki Gultom,,,,
+,NPM            : 202415009,,,,
+,Matakuliah   : Process Mining,,,,
+,,,,,
+,CASE_ID,Activity,Timestamp,Resource,Status
+,A-101,Pengajuan Pinjam,10/09/2026 08.15,System,Sukses
+,A-101,Verifikasi Dokumen,10/09/2026 08.30,Rina,Sukses
+,A-101,Penyerahan Buku,10/09/2026 08.45,Joko,Sukses
+,A-102,Pengajuan Pinjam,10/09/2026 08.20,System,Sukses
+,A-102,Verifikasi Dokumen,10/09/2026 08.50,Rina,Gagal (Denda)
+,A-102,Pembayaran Denda,10/09/2026 09.15,Kasir,Sukses
+,A-102,Penyerahan Buku,10/09/2026 09.25,Joko,Sukses
+,A-103,Pengajuan Pinjam,10/09/2026 09.00,System,Sukses
